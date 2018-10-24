@@ -88,5 +88,38 @@
 ]]>
 			</content:encoded>
 		</item>
+		
+		<item>
+			<title>111Atlassian выпустила полностью переработанный Jira Software</title>
+			<link>https://tproger.ru/news/jira-software-transformation/</link>
+			<guid>https://tproger.ru/?p=95697</guid>
+            <pubDate>Wed, 24 Oct 2018 18:00:07 +0000</pubDate>
+
+			<enclosure url="https://cdn.tproger.ru/wp-content/uploads/2018/10/Bez-imeni-1-13.jpg" type="image/jpeg"/>
+			<description>
+			<![CDATA[Компания Atlassian переработала Jira Software и&#160;представила его в&#160;обновлённом виде. Инструмент для организации проектов сейчас доступен для всех. Разработчики полностью переделали бэкенд и&#160;пользовательский интерфейс.]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<p>Компания Atlassian</p><p>Компания Atlassian <a href="https://www.atlassian.com/blog/jira-software/the-new-jira-begins-now">переработала</a> Jira Software и&nbsp;представила его в&nbsp;обновлённом виде. Инструмент для организации проектов сейчас доступен для всех. Разработчики полностью переделали бэкенд и&nbsp;пользовательский интерфейс. Atlassian планирует уделять больше внимания Jira, размещённой на&nbsp;<a href="https://aws.amazon.com/ru/">AWS</a>, нежели собственной серверной версии.</p>
+<img src="https://cdn.tproger.ru/wp-content/uploads/2018/10/cyber-security-2296269_1540.jpg" width="1540" height="540">
+ 
+ https://youtu.be/PQa3NFB_LRg
+ <h3>Изменения в&nbsp;Jira Software</h3>
+ <p>Основные новшества в&nbsp;переработанной версии Jira:</p>
+ <ul>
+ <li><span>индивидуальные &laquo;плитки&raquo;&nbsp;&mdash; возможность создания собственной рабочей среды, обособленной от&nbsp;других проектов;</span></li>
+ <li><span><span>переработанный блок <a href="http://www.tutorialspoint.com/jira/jira_issue_types.htm">Jira Issues</a>&nbsp;&mdash; новый интерфейс стал более понятным и&nbsp;простым в&nbsp;работе;</span></li>
+ <li><span>работа с&nbsp;agile-инструментами&nbsp;&mdash; возможность включать или отключать компоненты по&nbsp;мере продвижения проекта;</span></li>
+ <li><span>фильтры для интерфейса&nbsp;&mdash; пользователь может самостоятельно настраивать интерфейс или использовать готовые шаблоны;</span></li>
+ <li><span>мобильное приложение&nbsp;&mdash; с&nbsp;<a href="https://www.atlassian.com/software/jira/mobile-app">Jira Cloud mobile</a> пользователь может работать с&nbsp;Jira Software со&nbsp;смартфона.</span></li>
+ </ul>
+ 
+ <p>Разработчики добавили десятки интеграций, например, с&nbsp;GitHub, Slack, Gmail. Новый инструмент Roadmap позволяет большим командам проще и&nbsp;нагляднее согласовывать работу.</p>
+ <figure><img src="https://cdn.tproger.ru/wp-content/uploads/2018/10/cham_b.jpg" width="770" height="270"></figure>
+ 
+ <p>В&nbsp;октябре 2018 года Atlassian и&nbsp;GitHub <a href="https://tproger.ru/news/github-jira-software-integration/">разработали</a> приложение для интеграции Jira Software Cloud и&nbsp;репозитория. Оно помогает разработчикам отслеживать статус работы над кодом из&nbsp;панели проекта на&nbsp;Jira.</p>
+]]>
+			</content:encoded>
+		</item>
 	</channel>
 </rss>
